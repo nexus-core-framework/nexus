@@ -1,0 +1,7 @@
+{
+  "name": "@nexus-core/nexus",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "files": ["src/index.js"]
+}
